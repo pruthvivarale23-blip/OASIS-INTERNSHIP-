@@ -1,4 +1,4 @@
-# Data Cleaning and Project
+# Data Cleaning Project
 
 ## Overview
 
